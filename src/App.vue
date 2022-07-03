@@ -1,11 +1,15 @@
 <template>
-<h1>КОРЗИНА</h1>
+<basket-page/>
 </template>
 
 <script>
+import basketPage from '../src/pages/basket-page'
 
 export default {
-  name: 'App'
+  name: 'App',
+  components: {
+    basketPage
+  }
 }
 </script>
 
