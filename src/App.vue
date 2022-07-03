@@ -1,5 +1,5 @@
 <template>
-<h1>Vitalij</h1>
+<h1>КОРЗИНА</h1>
 </template>
 
 <script>

@@ -1,0 +1,16 @@
+[
+	{
+		"name": "ETIOPIA YIRGACHEFFE (200 G, ZRNKOVÁ KÁVA)",
+		"price": 540,
+		"picture": "../image/first_coffe.jpg"
+	},
+		{
+		"name": "COFFEEIN FORTE - ESPRESSO ZMES (200 G, ZRNKOVÁ KÁVA)",
+		"price": 480,
+		"picture": "../image/second_coffe.jpg"
+	},	{
+		"name": "CUBA SIERRA MAESTRA (200 G, ZRNKOVÁ KÁVA)",
+		"price": 600,
+		"picture": "../image/third_coffe.jpg"
+	}
+]
